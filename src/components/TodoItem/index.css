@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+.text {
+  font-size: 15px;
+}
+.btn {
+  height: 25px;
+  width: 60px;
+  border-radius: 5px;
+  border: 1px solid #ff8542;
+  color: #ff0b37;
+  flex-shrink: 0;
+}

@@ -1,0 +1,29 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.bg-container {
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  max-width: 700px;
+}
+.todo-container {
+  list-style: none;
+  padding: 0px;
+}
+.heading {
+  color: #ff8542;
+  font-size: 20px;
+  text-align: center;
+}
